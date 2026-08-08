@@ -51,7 +51,6 @@ Python, TensorFlow, Keras, NumPy, Pandas, Matplotlib, Seaborn, scikit-learn, Goo
 
 ---
 
-## Disclaimer
+## Author
 
-This is an educational project. The model has not been clinically validated 
-and is not intended for real world medical diagnosis.
+**Abrar Alam**
